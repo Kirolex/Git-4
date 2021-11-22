@@ -1,3 +1,3 @@
 # Git-5
-REMOTE
+LOCAL
 Petit readme sur la quête 5 de Git sur l'odyssé :D
